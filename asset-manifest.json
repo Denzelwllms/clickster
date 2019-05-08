@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.42b69268.chunk.css",
-  "main.js": "/static/js/main.2afe151c.chunk.js",
-  "main.js.map": "/static/js/main.2afe151c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.d6a534e5.chunk.js": "/static/js/2.d6a534e5.chunk.js",
-  "static/js/2.d6a534e5.chunk.js.map": "/static/js/2.d6a534e5.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.a1a7005422186a78e2fb9445e898b72f.js": "/precache-manifest.a1a7005422186a78e2fb9445e898b72f.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.42b69268.chunk.css.map": "/static/css/main.42b69268.chunk.css.map"
+  "main.css": "/clickster/static/css/main.42b69268.chunk.css",
+  "main.js": "/clickster/static/js/main.ac849ff4.chunk.js",
+  "main.js.map": "/clickster/static/js/main.ac849ff4.chunk.js.map",
+  "runtime~main.js": "/clickster/static/js/runtime~main.9928b7d5.js",
+  "runtime~main.js.map": "/clickster/static/js/runtime~main.9928b7d5.js.map",
+  "static/js/2.d6a534e5.chunk.js": "/clickster/static/js/2.d6a534e5.chunk.js",
+  "static/js/2.d6a534e5.chunk.js.map": "/clickster/static/js/2.d6a534e5.chunk.js.map",
+  "index.html": "/clickster/index.html",
+  "precache-manifest.d44240fcbf098984acc75c715d5f72c6.js": "/clickster/precache-manifest.d44240fcbf098984acc75c715d5f72c6.js",
+  "service-worker.js": "/clickster/service-worker.js",
+  "static/css/main.42b69268.chunk.css.map": "/clickster/static/css/main.42b69268.chunk.css.map"
 }
